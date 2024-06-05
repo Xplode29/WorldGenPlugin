@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorldGenPlugin:jar">
+    <output-path>$PROJECT_DIR$/../../../Minecraft/LocalHost/plugins</output-path>
+    <root id="archive" name="WorldGenPlugin.jar">
+      <element id="module-output" name="WorldGenPlugin" />
+    </root>
+  </artifact>
+</component>

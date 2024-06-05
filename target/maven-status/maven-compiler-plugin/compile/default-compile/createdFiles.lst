@@ -1,0 +1,11 @@
+me\butter\worldgenplugin\commands\CommandGiveRole.class
+me\butter\worldgenplugin\commands\CommandGenerate.class
+me\butter\worldgenplugin\roles\Camp.class
+me\butter\worldgenplugin\roles\Role.class
+me\butter\worldgenplugin\WorldGenPlugin.class
+me\butter\worldgenplugin\event\JoiningEvents.class
+me\butter\worldgenplugin\tasks\RolesTask.class
+me\butter\worldgenplugin\roles\AbstractRole.class
+me\butter\worldgenplugin\roles\demons\Rui.class
+me\butter\worldgenplugin\tasks\FillTreeTask.class
+me\butter\worldgenplugin\tasks\CleanTreeTask.class

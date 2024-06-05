@@ -1,0 +1,10 @@
+name: WorldGenPlugin
+version: '1.0-SNAPSHOT'
+main: me.butter.worldgenplugin.WorldGenPlugin
+commands:
+  generate:
+    description: Your description
+  giverole:
+    description: Your description
+  pf:
+    description: Your description
